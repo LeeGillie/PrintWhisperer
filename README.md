@@ -1,3 +1,31 @@
+![Print Whisperer](resources/images/printwhisperer/PrintWhisperer-Banner.jpg)
+
+# Print Whisperer
+
+**AI guidance for better 3D prints. Surface finish, print speed: your choice.**
+
+Print Whisperer is an AI assistant built into a fork of Bambu Studio. Before you slice, it analyzes your project, researches every filament in use, and proposes a checklist of setting changes tuned to your priority (best finish or fastest print). Nothing changes until you approve it.
+
+Planned features:
+- Project analysis before slicing, with notes on corrections that could help
+- Per-filament research across Bambu Lab and third-party makers
+- A priority-driven tuning checklist; you accept or reject each change
+- Online AI via your own API keys, or fully local models with guided setup
+
+Status: early development.
+
+## Attribution and license
+
+Print Whisperer is an independent project by **Isotope NW**, based on the open-source [Bambu Studio](https://github.com/bambulab/BambuStudio) codebase. It is not affiliated with or endorsed by Bambu Lab.
+
+This is a modified version of Bambu Studio. Modifications by Isotope NW began 2026-10-05 and are listed in the commit history of the `print-whisperer` branch. Like Bambu Studio, Print Whisperer is licensed under the GNU Affero General Public License v3.0 (see [LICENSE.txt](LICENSE.txt)); all upstream copyright and license notices are preserved.
+
+Print Whisperer does not alter how the software identifies itself to Bambu Lab cloud services, and its AI features do not depend on Bambu Lab's cloud.
+
+---
+
+*The original Bambu Studio README follows.*
+
 ![image](https://user-images.githubusercontent.com/106916061/179006347-497d24c0-9bd6-45b7-8c49-d5cc8ecfe5d7.png)
 # BambuStudio
 Bambu Studio is a cutting-edge, feature-rich slicing software.  
