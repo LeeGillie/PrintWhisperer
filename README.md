@@ -18,7 +18,7 @@ Status: early development.
 
 Print Whisperer is an independent project by **Isotope NW**, based on the open-source [Bambu Studio](https://github.com/bambulab/BambuStudio) codebase. It is not affiliated with or endorsed by Bambu Lab.
 
-This is a modified version of Bambu Studio. Modifications by Isotope NW began 2026-10-05 and are listed in the commit history of the `print-whisperer` branch. Like Bambu Studio, Print Whisperer is licensed under the GNU Affero General Public License v3.0 (see [LICENSE.txt](LICENSE.txt)); all upstream copyright and license notices are preserved.
+This is a modified version of Bambu Studio. Modifications by Isotope NW began 2026-10-05 and are listed in the commit history of the `print-whisperer` branch. Like Bambu Studio, Print Whisperer is licensed under the GNU Affero General Public License v3.0 (see [LICENSE](LICENSE)); all upstream copyright and license notices are preserved.
 
 Print Whisperer does not alter how the software identifies itself to Bambu Lab cloud services, and its AI features do not depend on Bambu Lab's cloud.
 
